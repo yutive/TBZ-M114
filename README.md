@@ -10,6 +10,7 @@ Run Length Coding (RLC) oder Run Length Encoding (RLE) ist ein einfacher verlust
 
 ## Aufgaben
 
+### RL-Code entziffern
 **Sie erhalten diesen RL-Code:**  
 010100011110010010010010010010010010010110010110010010010010010010010010001  
 Folgendes ist ihnen dazu bekannt: Es handelt sich um eine quadratische Schwarz-Weiss-Rastergrafik mit einer Kantenlänge von 8 Pixel. Es wird links oben mit der Farbe Weiss begonnen. Eine Farbe kann sich nicht mehr als siebenmal wiederholen. Zeichnen sie die Grafik auf. Was stellt sie da?
@@ -27,5 +28,7 @@ Folgendes ist ihnen dazu bekannt: Es handelt sich um eine quadratische Schwarz-W
 #### Encoded
 	010 2 / 100 4 / 011 3 / 110 6 / 010 2 / 010 2 / 010 2 / 010 2 /010 2 / 010 2 / 010 2 / 010 2 / 010 2 / 110 6 / 010 2 / 110 6 / 010 2 / 010 2 / 010 2 / 010 2 / 010 2 / 010 2 / 010 2 / 010 2 / 001 1
 
-**Lösung:** Das ergebnis Zeigt ein A
+#### Lösung:
+Das ergebnis Zeigt ein A
 ![](rl-code-a.png)
+
